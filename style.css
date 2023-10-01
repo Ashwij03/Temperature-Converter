@@ -22,13 +22,6 @@ body{
     color: #000;
 }
 
-#heading {
-    height: 100%;
-    width: 100%;
-    font-size: 50;
-    padding-left: 37%;
-    padding-top: 10%;
-}
 
 .wrapper{
     width: 450px;
@@ -45,6 +38,10 @@ body{
 }
 .container{
     width: 45%;
+}
+.container h1{
+    width: 800px;
+    padding-bottom: 20%;
 }
 input{
     width: 100%;
